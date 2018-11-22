@@ -1,6 +1,6 @@
 # Driver Monitoring System
 
-The Driver Monitoring System is a system used to aggregate biometric data from the attached user and determine whether they are in a medically fit state to drive. The system utilises 5 sensors: A Webcam to detect emotional status, a Pulse Sensor, an Electromyography sensor, a Temperature Sensor, and a Galvanic Skin Response sensor.
+The Driver Monitoring System is a system used to aggregate biometric data from the attached user and determine whether they are in a medically fit state to drive. The system utilises five sensors: A Webcam to detect emotional status, a Pulse Sensor, an Electromyography sensor, a Temperature Sensor, and a Galvanic Skin Response sensor.
 
 # Hardware
 
